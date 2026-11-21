@@ -96,8 +96,8 @@ var sanjula = Profile
 | Project | What it does | Built with |
 |---|---|---|
 | **[GarageBookLK](https://github.com/dSanjulad/garage-booking-system)** | Garage booking platform for Sri Lanka. Owners compare garages by price and verified reviews, see live availability and book a bay; operators manage services, slots and bookings. | React · Vite · Node.js · Express · MySQL · JWT |
-| **Community Sports Facilities Booking** <br/><sub>🚧 Repo coming soon</sub> | Web app for members to search sports facilities, book sessions, manage bookings, leave reviews and send inquiries. | ASP.NET Core MVC (.NET 8) · ADO.NET · SQL Server · Stored Procedures |
-| **SmartMed Pharmacy System** <br/><sub>🚧 Repo coming soon</sub> | Desktop pharmacy management system with separate admin and customer portals: medicine inventory, cart and ordering, order tracking and admin reports. | C# · WinForms (.NET Framework) · SQL Server |
+| **[Community Sports Facilities Booking](https://github.com/dSanjulad/sports-facilities-booking)** | Web app for members to search sports facilities, book sessions, manage bookings, leave reviews and send inquiries. | ASP.NET Core MVC (.NET 8) · ADO.NET · SQL Server · Stored Procedures |
+| **[SmartMed Pharmacy System](https://github.com/dSanjulad/smartmed-pharmacy-system)** | Desktop pharmacy management system with separate admin and customer portals: medicine inventory, cart and ordering, order tracking and admin reports. | C# · WinForms (.NET Framework) · SQL Server |
 
 ---
 
